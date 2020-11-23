@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.util.*;
 import java.io.*;
 
-public class Main{
+public class circun{
 
     public static void main(String[] args)throws IOException{
 
@@ -17,7 +17,7 @@ public class Main{
           radio = entrada.nextInt();
 
           area = 3.1416*(radio*radio);
-          
+
           perimetro = 2*3.1416*radio;
 
         System.out.println("A continuacion te dare los resultados:");
